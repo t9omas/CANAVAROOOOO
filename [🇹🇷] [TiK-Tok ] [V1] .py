@@ -8,10 +8,10 @@ print("\x1b[1;39m—" * 60)
 print(kral)
 print("~ Programmer : @T5OMASR |  Channel: @THOMASHACK ~")
 print("\x1b[1;39m—" * 60)
-print("\x1b[38;5;117m  1\x1b[38;5;231m - Tiktok Gmail [ No Vpn +100 takipçi ] | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  1\x1b[38;5;231m - Tiktok Gmail [ No Vpn +100 takipçi ] | \x1b[1;32m Bakımda ❌")
 print("\x1b[38;5;117m  2\x1b[38;5;231m - Tiktok Gmail  Bol Hitli [ Vpn Aç   ] | \x1b[1;32m aktif ✅")
-print("\x1b[38;5;117m  3\x1b[38;5;231m - Tiktok Hotmail +100 Takipçi  [ No Vpn  ] | \x1b[1;32m aktif ✅")
-print("\x1b[38;5;117m  4\x1b[38;5;231m - Tiktok Outlook +100 Takipçi  [ No Vpn  ] | \x1b[1;32m aktif ✅")
+print("\x1b[38;5;117m  3\x1b[38;5;231m - Tiktok Hotmail +100 Takipçi  [ No Vpn  ] | \x1b[1;32m Bakımda ❌ ")
+print("\x1b[38;5;117m  4\x1b[38;5;231m - Tiktok Outlook +100 Takipçi  [ No Vpn  ] | \x1b[1;32m Bakımda ❌")
 print("\x1b[38;5;117m  5\x1b[38;5;231m - Tiktok Yopmail Random   [ No Vpn  ] | \x1b[1;32m aktif ✅")
 
 
